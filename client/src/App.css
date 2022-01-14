@@ -44,6 +44,7 @@ h1 {
 
 .links-container a {
   cursor: pointer;
+  color: rgb(56, 193, 235);
 }
 
 .links-container a:hover {

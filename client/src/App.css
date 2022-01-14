@@ -5,6 +5,12 @@
   justify-content: space-between;
 }
 
+h1 {
+  width: 89.8%;
+  padding: 0 5%;
+  overflow-wrap: break-word;
+}
+
 .App .view-split-1, .view-split-2 {
   width: 50%;
   height: 100vh;
